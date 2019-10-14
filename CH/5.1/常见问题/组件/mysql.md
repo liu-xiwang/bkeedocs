@@ -16,7 +16,7 @@
 ps -ef | grep mysql | grep -v grep
 ```
 
-### 修改 mysql 密码
+### 修改 MySQL 密码
 
 修改 globals.env 里的 mysql_PASS 值，密码不要包含 `[ ] / : @ ?` 等特殊字符
 
@@ -56,13 +56,13 @@ for x in `ls /data/bkce/paas_agent/apps/projects | awk '{print $1}' | sed 's/.$/
 
 ### 重新生成配置
 
-和 mysql 相关的模块为 mysql，paas，job，bkdata，saas
+和 MySQL 相关的模块为 MySQL，PaaS，Job，bkdata，SaaS
 
 ```bash
 echo mysql paas job bkdata | xargs -n 1 ./bkcec render
 ```
 
-**bkdata**特别注意，有 3 个地方
+**bkdata** 特别注意，有 3 个地方
 
 ```bash
 配置1：
