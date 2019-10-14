@@ -1,10 +1,10 @@
 # Summary
 ## 蓝鲸智云体系概述
-* [品牌简介](品牌简介/intro.md)
-* [核心优势](核心优势/advantages.md)
-* [解决方案]()
-    * [体系架构](解决方案/solution.md)
-    * [CI 领域](解决方案/ci_intro.md)
+* [品牌简介_EN](品牌简介/intro.md)
+* [核心优势_EN](核心优势/advantages.md)
+* [解决方案_EN]()
+    * [体系架构_EN](解决方案/solution.md)
+    * [CI 领域_EN](解决方案/ci_intro.md)
     * [CD 领域](解决方案/cd_intro.md)
     * [CO 领域](解决方案/co_intro.md)
 * [软件信息]()
