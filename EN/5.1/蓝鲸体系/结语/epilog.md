@@ -9,3 +9,4 @@
 运维行业是一片蓝海，蓝鲸智云团队希望能和优秀的企业一起合作，为合作伙伴提供技术支持，蓝鲸将更专注于技术研究，持续输出更多的产品，一起为运维行业服务。
 
 说明：蓝鲸智云体系信息会不断更新，具体特性以可用的蓝鲸智云软件的功能为准。
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
